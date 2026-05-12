@@ -1,0 +1,5 @@
+# Proiect SPER — traiectorii Dubins + TSP (nearest neighbor)
+# Instalare: py -m pip install -r requirements.txt
+numpy>=1.22
+matplotlib>=3.5
+jupyter>=1.0.0
